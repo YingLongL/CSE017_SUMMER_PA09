@@ -1,0 +1,28 @@
+
+TreeMap with natural ordering
+        Inorder Traversal:
+        (Friday,64) (Monday,65) (Saturday,70) (Sunday,75) (Thursday,66) (Tuesday,71) (Wednesday,68) 
+        Tree contains "Thursday"? true
+        Tree contains "March"? false
+        "Thursday" removed? true
+        "March" removed? false
+        First: (Friday,64)
+        Last : (Wednesday,68)
+        Ceiling("Monday") : (Monday,65)
+        Ceiling("October") : (Saturday,70)
+        floor("Thursday") : (Sunday,75)
+        floor("October") : (Monday,65)
+
+TreeMap with a comparator
+        Inorder Traversal:
+        (Friday,64) (Monday,65) (Saturday,70) (Sunday,75) (Thursday,66) (Tuesday,71) (Wednesday,68) 
+        Tree contains "Thursday"? true
+        Tree contains "March"? false
+        "Thursday" removed? true
+        "March" removed? false
+        First: (Friday,64)
+        Last : (Wednesday,68)
+        Ceiling("Monday") : (Monday,65)
+        Ceiling("October") : (Saturday,70)
+        floor("Thursday") : (Sunday,75)
+        floor("October") : (Monday,65)
