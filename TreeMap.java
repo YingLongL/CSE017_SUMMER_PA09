@@ -7,6 +7,9 @@ import java.util.Comparator;
  * 
  * @param <K> the type of keys maintained by this map
  * @param <V> the type of mapped values
+ * @author Yinglong Lin
+ * @version Java 11 / VSCode
+ * @since 2024-6-24 (date of last revision)
  */
 public class TreeMap<K extends Comparable<K>, V> {
     private TreeNode root;

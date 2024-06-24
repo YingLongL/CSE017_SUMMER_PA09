@@ -2,6 +2,9 @@
  * Class representing a key-value pair, used as an entry in the TreeMap.
  * @param <K> the type of keys maintained by this map entry
  * @param <V> the type of mapped values
+ * @author Yinglong Lin
+ * @version Java 11 / VSCode
+ * @since 2024-6-24 (date of last revision)
  */
 public class MapEntry<K, V> {
     private K key;

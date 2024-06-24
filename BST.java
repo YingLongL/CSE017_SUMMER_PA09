@@ -1,6 +1,9 @@
 /**
  * Generic Class to implement a Binary Search Tree
  * @param <E> the type of elements maintained by this tree
+ * @author Yinglong Lin
+ * @version Java 11 / VSCode
+ * @since 2024-6-24 (date of last revision)
  */
 public class BST<E extends Comparable<E>> {
     // Data members

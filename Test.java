@@ -3,6 +3,9 @@ import java.util.Comparator;
 /**
  * This is a test class for the TreeMap implementation. It demonstrates the usage
  * of TreeMap with both natural ordering and a custom comparator.
+ * @author Yinglong Lin
+ * @version Java 11 / VSCode
+ * @since 2024-6-24 (date of last revision)
  */
 public class Test {
     /**
